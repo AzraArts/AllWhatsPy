@@ -20,36 +20,36 @@
 </div>
 </h1>
 
-> PT-BR 
+> en-us translation 
 
->Criado por [Lucas Lourenço](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
+>Created by [Lucas Lourenço](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
 
->Manutenido por [Lucas Lourenço](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
+>Maintained by [Lucas Lourenço](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
 
 <div align="center">
-   <h1>ATENÇÃO</h1><br>
+   <h1>ATTENTION</h1><br>
 </div>
 
- > O código estará passando por um grande update.<br> Aos poucos estarei refatorando-o e explicando as novas funções.<br><br>
- Att,<br>
+ > The code is passing through a huge update.<br> As time passes I will be refactoring and explaining the new functions.<br><br>
+ Sincerely,<br>
  Lucas Lourenço
 
 
-## Sumário
+## Summary
 
 - [Tutorial](https://github.com/DevLucasLourenco/AllWhatsPy#tutorial-em-v%C3%ADdeo2)
 - [AllWhatsPy](https://github.com/DevLucasLourenco/AllWhatsPy#por-que-allwhatspy)
-- [Instalação](https://github.com/DevLucasLourenco/AllWhatsPy#come%C3%A7ando-no-allwhatspy)
-- [Lista de Tarefa](https://github.com/DevLucasLourenco/AllWhatsPy#objetivos-a-serem-terminados)
-- [Exemplos](https://github.com/DevLucasLourenco/AllWhatsPy#exemplos)
-- [Códigos](https://github.com/DevLucasLourenco/AllWhatsPy#o-que-voc%C3%AA-pode-fazer-com-allwhatspy)
-- [Notas do Criador](https://github.com/DevLucasLourenco/AllWhatsPy#notas-do-criador)
+- [Install](https://github.com/DevLucasLourenco/AllWhatsPy#come%C3%A7ando-no-allwhatspy)
+- [To do list](https://github.com/DevLucasLourenco/AllWhatsPy#objetivos-a-serem-terminados)
+- [Exemples](https://github.com/DevLucasLourenco/AllWhatsPy#exemplos)
+- [Codes](https://github.com/DevLucasLourenco/AllWhatsPy#o-que-voc%C3%AA-pode-fazer-com-allwhatspy)
+- [Creator Notes](https://github.com/DevLucasLourenco/AllWhatsPy#notas-do-criador)
 - [Autor](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
-- [Contribuição](https://github.com/DevLucasLourenco/AllWhatsPy#contribui%C3%A7%C3%A3o)
-- [Erros](https://github.com/DevLucasLourenco/AllWhatsPy#problemas-com-o-allwhatspy)
+- [Contribuition](https://github.com/DevLucasLourenco/AllWhatsPy#contribui%C3%A7%C3%A3o)
+- [Errors](https://github.com/DevLucasLourenco/AllWhatsPy#problemas-com-o-allwhatspy)
 
 
-## Tutorial em Vídeo
+## Video Tutorial
 
 <h1 align="center">
  
@@ -60,12 +60,12 @@
 </h1>
 
 
-## ⭐ Avalie o Código! ⭐
+## ⭐ Rate the code! ⭐
 
 
 
-É de muitíssima importância a `Estrela` que você pode estar dando para colaborar com a `Manutenção` e `Atualização` do código!
-Se você utiliza o AllWhatsPy com frequência, gosta da forma que foi desenvolvido, se inspira nele, serei muito grato por sua avaliação!
+It is really important the `Star` that you can be giving to help with the `Maintenance` and `Updates` of the code!
+If you utilize AllWhatsPy frequently, like the way it was developed and cares about it, I will be very gratefull for your rating!
 
 <h1 align="center">
 <a href="https://github.com/DevLucasLourenco/AllWhatsPy/stargazers">
