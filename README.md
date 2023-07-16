@@ -20,7 +20,7 @@
 </div>
 </h1>
 
-> en-us translation 
+> English Translation
 
 >Created by [Lucas Lourenço](https://github.com/DevLucasLourenco/AllWhatsPy#autor)
 
@@ -30,7 +30,7 @@
    <h1>ATTENTION</h1><br>
 </div>
 
- > The code is passing through a huge update.<br> As time passes I will be refactoring and explaining the new functions.<br><br>
+ > The code is going through a big update.<br> As time passes I will be refactoring and explaining the new functions.<br><br>
  Sincerely,<br>
  Lucas Lourenço
 
@@ -39,7 +39,7 @@
 
 - [Tutorial](https://github.com/DevLucasLourenco/AllWhatsPy#tutorial-em-v%C3%ADdeo2)
 - [AllWhatsPy](https://github.com/DevLucasLourenco/AllWhatsPy#por-que-allwhatspy)
-- [Install](https://github.com/DevLucasLourenco/AllWhatsPy#come%C3%A7ando-no-allwhatspy)
+- [Installation](https://github.com/DevLucasLourenco/AllWhatsPy#come%C3%A7ando-no-allwhatspy)
 - [To do list](https://github.com/DevLucasLourenco/AllWhatsPy#objetivos-a-serem-terminados)
 - [Exemples](https://github.com/DevLucasLourenco/AllWhatsPy#exemplos)
 - [Codes](https://github.com/DevLucasLourenco/AllWhatsPy#o-que-voc%C3%AA-pode-fazer-com-allwhatspy)
@@ -65,7 +65,7 @@
 
 
 It is really important the `Star` that you can be giving to help with the `Maintenance` and `Updates` of the code!
-If you utilize AllWhatsPy frequently, like the way it was developed and cares about it, I will be very gratefull for your rating!
+If you utilize AllWhatsPy frequently, like the way it was developed and cares about it, I will be very gratefull with your rating!
 
 <h1 align="center">
 <a href="https://github.com/DevLucasLourenco/AllWhatsPy/stargazers">
@@ -75,51 +75,51 @@ If you utilize AllWhatsPy frequently, like the way it was developed and cares ab
 
 
 
-## Por que AllWhatsPy?
+## Why AllWhatsPy?
 
-Como já sabemos, o Whatsapp é uma ferramenta que não podemos mais viver sem.
-Seja para cunho profissional ou pessoal, é necessário o manuseio completo desta aplicação.
+As we know, Whatsapp is a tool that we can no longer live without.
+Be for professional or private use, it is necessary the full control of this aplication.
 
-Então... por que não torná-lo <b>`ainda mais eficiente`?</b>
+So... Why not make it <b>`even more efficient`?</b>
 
-Depois de ter pensado nisso, comecei a pesquisar sobre Bots e APIs do Whatsapp, me inspirei em códigos como o do [PyWhatsapp](https://github.com/shauryauppal/PyWhatsapp) e [PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit) para a realização deste.
+After thinking about it, I started to search about Bots ans APIs for Whatsapp, I got inspired by codes like the ones from [PyWhatsapp](https://github.com/shauryauppal/PyWhatsapp) and [PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit) for making this one.
 
-Após passar um tempo estudando e alternando entre o trabalho e o software, botei a mão na massa e comecei a minha jornada indo atrás da melhoria e da qualidade de Software. Continuo atualizando e desenvolvendo, fazendo isso  único e exclusivamente sozinho.
+Posterior to a time studying and switching between work and the software, I've put my hands at work and started my journey looking for the upgrade and quality of the Software. I'm still updanting and developing, doing this all by myself.
 
-Foram usadas mais de [11 mil linhas de logs](https://github.com/DevLucasLourenco/AllWhatsPy/edit/main/README.md#-3) para o total funcionamento do código.
+More than Foram usadas mais de [11 thousand log lines](https://github.com/DevLucasLourenco/AllWhatsPy/edit/main/README.md#-3) were used for the full funtioning of the code.
 
-Com o AllWhatsPy, você consegue fazer [o que quiser!](https://github.com/DevLucasLourenco/AllWhatsPy/edit/main/README.md#o-que-voc%C3%AA-pode-fazer-com-allwhatspy)
+With AllWhatsPy, you can do [whatever you want!](https://github.com/DevLucasLourenco/AllWhatsPy/edit/main/README.md#o-que-voc%C3%AA-pode-fazer-com-allwhatspy)
 
 
 </br>
 </br>
   
-## Começando no AllWhatsPy
+## Starting in AllWhatsPy
 
 <div align="center">
    <h2>
-      INSTALAÇÃO
+      INSTTALLING
    </h2>
 </div>
 
-Para a instalação da lib, no terminal faça:
+To install the lib, in the terminal do:
 
 ```
 pip install -U allwhatspy-awp
 ```
 
-Após, chame o pacote. Segue um exemplo:
+Afterwards, call the package. Here's an example: Após, chame o pacote. Segue um exemplo:
 
 ```python
 import AllWhatsPy as awp
 ```
 
 
-Você também pode estar baixando os arquivos e colar na sua pasta, caso sua máquina esteja tendo problemas em instalar esta lib.
+You can also download the files then paste it on your folder, if your machine is having problems installing the lib.
 
 </br>
 
-### Lógica:
+### Logic:
 
 ```mermaid
 flowchart LR;
@@ -156,54 +156,53 @@ flowchart LR;
 
 
 
-## Objetivos a Serem Terminados 
+## Unfinished Objectives 
 
-- [x] Criar alternativas para envio de mensagem (Realizado - 19/12/2022)
-- [x] Tratar as `except Exception` (Realizado - 21/12/2022)
-- [x] Resolver bug na urllib (Realizado - 21/12/2022)
-- [x] Alimentar o código com opções alternativas para `awp.conexao()` e  `awp.desconectar()` (Realizado - 21/12/2022)
-- [x] Corrigir excepts de `NoSuchElementException`  (Realizado - 22/12/2022)
-- [x] Implementar WebDriverWait para melhor responsividade do software (Realizado - 27/12/2022)
-- [x] Configurar a entrada de `logs` (Realizado - 28/12/2022)
-- [x] Atualizar ActionChains (Realizado - 15/01/2023)
-- [x] Terminar `ultimas_mensagens_conversa()` (Realizado - 18/01/2023)
-- [x] Explicar todas as fórmulas (Realizado - 21/01/2023)
-- [x] Aperfeiçoar a função de `agendamento` (Realizado - 21/01/2023)
-- [x] Terminar o `sumário` (Realizado - 21/01/2023)
-- [x] Implementar a área de `Exemplos Práticos` (Realizado - 21/01/2023)
-- [x] Fazer vídeo e postar no Youtube de explicação para utilizar o código (Realizado - 22/01/2023)
-- [x] Implementar exemplos convencionais (Realizado - 23/01/2023) 
-- [x] Alterar Imagem da lógica do AWP com Mermaid (Realizado - 23/01/2023)
-- [x] Finalizar função `encontrar_numeros_não_salvos()` (Realizado - 25/01/2023)
-- [x] Implementação de Classes (Realizado - 12/02/2023)
-- [x] Desenvolver um `pip install` para AWP (Realizado - 12/02/2023)
-- [x] Atualizar `nome_usuario()` (Realizado - 15/02/2023)
-- [x] Atualizar bug da função `desconectar()` (Realizado - 20/02/2023)
-- [x] Corrigir bug na função `pegar_foto_contato()` (Realizado - 21/02/2023)
-- [x] Atualizar icon do AWP (Realizado - 25/02/2023)
-- [ ] Atualizar `contato_nome()`
-- [ ] Realizar a explicação de como começar no AWP
-- [ ] Performar criação de pastas com a lib `pathlib` para melhor qualidade de software
-- [ ] Terminar função `buscar_contatos_não_lidos()`
-- [ ] Terminar função `retornar_posicao_anterior()`
-- [ ] Implementação de Classes, Métodos e Módulos auxiliaers
+- [x] Create alternatives for message sending (Done - 19/12/2022)
+- [x] Fix the `except Exception` (Done - 21/12/2022)
+- [x] Bug Fixing on urllib (Realizado - 21/12/2022)
+- [x] Feeding the code with alternatives for `awp.conexao()` e  `awp.desconectar()` (Done - 21/12/2022)
+- [x] Fix excepts of `NoSuchElementException`  (Done - 22/12/2022)
+- [x] Implement WebDriverWait to upgrade the software responsiviness (Done - 27/12/2022)
+- [x] Configure `log` entrances (Done - 28/12/2022)
+- [x] Update ActionChains (Done - 15/01/2023)
+- [x] Finish `ultimas_mensagens_conversa()` (Done - 18/01/2023)
+- [x] Explain all formulas (Done - 21/01/2023)
+- [x] Upgrade the `scheduling` functions (Done - 21/01/2023)
+- [x] Finish the `summary` (Done - 21/01/2023)
+- [x] Implement the `Pratical Examples` area (Done - 21/01/2023)
+- [x] Make a video and post it on Youtube explaining to utilize the code (Done - 22/01/2023)
+- [x] Implement conventional examples (Done - 23/01/2023) 
+- [x] Change image of AWP logic with Mermaid (Done - 23/01/2023)
+- [x] Finish function `encontrar_numeros_não_salvos()` (Done - 25/01/2023)
+- [x] Classes Implementation Classes (Done - 12/02/2023)
+- [x] Develop a `pip install` for AWP (Done - 12/02/2023)
+- [x] Update `nome_usuario()` (Done - 15/02/2023)
+- [x] Update the bug in the `desconectar()` function (Done - 20/02/2023)
+- [x] Fix bug in the `pegar_foto_contato()` function (Done - 21/02/2023)
+- [x] Update AWP icon (Done - 25/02/2023)
+- [ ] Update `contato_nome()`
+- [ ] Make an explanation of how to start in AWP
+- [ ] Perform folder creation with the `pathlib` lib for better software quality
+- [ ] Finish `buscar_contatos_não_lidos()` function
+- [ ] Finish `retornar_posicao_anterior()` function
+- [ ] Implementation of Classes, Methods and Helper Modules
 
 
-
-## 🚨Exemplos🚨
+## 🚨Examples🚨
 
 <details>
 <summary>
- 🚨Exemplos Práticos🚨
+ 🚨Pratical Examples🚨
 </summary>
 
 <p>
 
- - [Exemplo Prático - Tratamento de Dados com Execução AWP](/exemplos/TratamentoDeDados-Execução.py)
+ - [Pratical Example - Data Treatment with AWP Execution](/exemplos/TratamentoDeDados-Execução.py)
  
- - [Exemplo Prático - Agendamento em Lista com Execução AWP](/exemplos/ListaDeAgendamentos-ExecucaoAWP.py)
+ - [Pratical Example - Scheduling a List with AWP Execution](/exemplos/ListaDeAgendamentos-ExecucaoAWP.py)
  
- - [Exemplo Prático - Descendo Chats e Retornando as Mensagens](/exemplos/DescendoChatsBuscandoMensagens-ExecuçãoAWP.py)
+ - [Pratical Example - Rolling Down Chats and Returning the Messages](/exemplos/DescendoChatsBuscandoMensagens-ExecuçãoAWP.py)
 </p>
 
 </details>
@@ -211,14 +210,14 @@ flowchart LR;
 
 <details>
 <summary>
- 🚨Exemplos🚨
+ 🚨Examples🚨
 </summary>
 
 <p>
 
- - [Exemplo](/exemplos/exemplo.py)
+ - [Example](/exemplos/exemplo.py)
  
- - [Exemplo]()
+ - [Example]()
  
 </p>
 
@@ -226,14 +225,14 @@ flowchart LR;
 
 
   
-## O que você pode fazer com AllWhatsPy
+## What you can do with AllWhatsPy
 
 
-- ##  Conectar
+- ##  To Connect
 
-> É de enorme importância a utilização deste código! Afinal, ele é o responsável pela integração do AllWhatsPy ao Whatsapp.
-> É possível utilizar como `awp.conexao()` ou `awp.conexao(2)`. No primeiro caso, abrirá um `popup` na tela esperando a confirmação para dar continuidade.
->  No segundo caso, será ignorado o popup que aparece após a inicialização do algoritmo.
+> It is of great importance to use this code! After all, he is responsible for integrating AllWhatsPy with Whatsapp.
+> It is possible to utilize as `awp.conexao()` or `awp.conexao(2)`. At first case, a popup will open on the screen, waiting for confirmation to continue.
+> In the second case, the popup that appears after the algorithm initialization will be ignored.
 
 <p>
   
@@ -245,7 +244,7 @@ awp.conexao()
 </p>
 
 
-ou
+or
 
 
 <p>
@@ -258,11 +257,10 @@ awp.conexao(2)
 </p>
 
 
-- ## Desconectar
+- ## Disconnect
 
-> Após a conclusão de todas as funções que forem usadas por você, caso seja de sua vontade desconectar o Whatsapp, rode este código. Caso contrário, o seu login ficará  sempre registrado como ainda conectar, por mais que feche a janela.
-> É possível utilizar como `awp.desconectar()` ou `awp.desconectar(2)`. Caso utilize-se o primeiro caso, o software encerrará e fechará a janela. No segundo caso, irá manter a janela do QR Code aberta.
-
+> After completing all the functions that are used by you, if you want to disconnect Whatsapp, run this code. Otherwise, your login will always be registered as still connecting, no matter how much you close the window.
+> It can be used as `awp.desconectar()` or `awp.desconectar(2)`. If the first case is used, the software will exit and close the window. In the second case, it will keep the QR Code window open.
 <p>
   
   ```python
@@ -274,12 +272,12 @@ awp.desconetar()
 ```  
 </p>
 
-- ## Trabalhando com Chats/Contatos/Usuários
+- ## Working with Chats/Contacts/Users
 
   - ### encontrar_contato(contato)
   <p>
   
-    > Com esta função, iremos abrir conversas para prosseguirmos com os demais códigos. Buscará pelo nome ou pelo número, contanto que o mesmo já esteja salvo.
+    > With this function, we will open chats to proceed with the other codes. It will search by name or number, as long as it is already saved.
     
 
   ```python
@@ -296,8 +294,8 @@ awp.desconetar()
   - ### encontrar_usuario(numero)
   <p>
   
-    > Já com esta função, nós não conseguimos buscar pelo nome, mas somente pelo número. Entretando, você NÃO precisa estar com o número salvo. 
-  Pode ser viável para o envio de mensagem para planilhas de números e afins.
+    > With this function, we can't search by name, but only by number. However, you DO NOT need to have the number saved.
+  It may be viable for sending messages to spreadsheets with numbers and such.
     
 
   ```python
